@@ -1,4 +1,4 @@
-### APP URL FOR DEMO###
+### `APP URL FOR DEMO`###
 
 https://instagram-clone-846f7.web.app/
 
